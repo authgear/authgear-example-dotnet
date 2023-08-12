@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "OidcClientDemoApplication": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52115;http://localhost:52116"
+    }
+  }
+}
