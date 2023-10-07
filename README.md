@@ -19,7 +19,7 @@ Before you get started, you will need the following:
 Start by cloning the project into your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/authgear/authgear-example-dotnet.git
 ```
 
 Make the project directory your current working directory:
